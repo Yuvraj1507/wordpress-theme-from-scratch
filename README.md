@@ -942,4 +942,5 @@ All Rights Reserved.
 
 ## Contact
 
-[hello@jonathangrover.com](mailto:hello@jonathangrover.com)
+Dalayi Yuvaraju
+[hello@jonathangrover.com](mailto:ydalayi8@gmail.com)

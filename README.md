@@ -943,4 +943,4 @@ All Rights Reserved.
 ## Contact
 
 Dalayi Yuvaraju
-[hello@jonathangrover.com](mailto:ydalayi8@gmail.com)
+[ydalayi8@gmail.com](mailto:ydalayi8@gmail.com)
